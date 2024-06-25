@@ -1,7 +1,7 @@
 # SummerStudent2024
 Summer student examples and resources 2024
 
-
+* [Presentation Slides](https://github.com/brkent/SummerStudent2024/blob/main/Students-BKent-Python-MachLearn-Astronomy-June-2024.pdf) - Click Download in the upper right
 * [Python tutorial (Supernova)](https://ivastar.github.io/python-novice-astro/)
 * [AstroPy](http://www.astropy.org/)
 * [Matplotlib](https://matplotlib.org/gallery/index.html)
