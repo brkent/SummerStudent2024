@@ -21,3 +21,6 @@ Summer student examples and resources 2024
 * [Seaborn](https://seaborn.pydata.org/)
 * [Colorimetry in plots](https://seaborn.pydata.org/tutorial/color_palettes.html#general-principles-for-using-color-in-plots)
 * [Colorimetry Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+* [Kaggle](https://www.kaggle.com/)
+* [HuggingFace](https://www.huggingface.com/)
+* [Astrophysics Source Code Library](https://ascl.net/) - ASCL
